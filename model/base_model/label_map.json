@@ -1,0 +1,16 @@
+{
+  "sentiment_label2id": {
+    "fear": 0,
+    "grief": 1,
+    "nervousness": 2,
+    "neutral": 3,
+    "sadness": 4
+  },
+  "sentiment_id2label": {
+    "0": "fear",
+    "1": "grief",
+    "2": "nervousness",
+    "3": "neutral",
+    "4": "sadness"
+  }
+}
